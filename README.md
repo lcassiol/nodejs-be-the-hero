@@ -1,4 +1,6 @@
-# Be the hero
+<h1 align="center">
+    <img alt="" title="" src="https://raw.githubusercontent.com/lcassiol/reactjs-be-the-hero/3fa7045fbd9c25f4c0baef78d9e30a6bfc691f9f/src/assets/screeenshots/logo.svg">
+</h1>
 
 Projeto desenvolvido durante a semana OMNI Stack da Rocketseat, com o objetivo de criar um espaço para que ONGs que cuidam de animais possam solicitar um apoio financeiro descrevendo sua situação e seus objetivos, um usuário ao acessar o site pode ler as descrições e se tiver interesse entrar em contato para ajudar.
 
