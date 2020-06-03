@@ -23,10 +23,10 @@ Projeto desenvolvido durante a semana OMNI Stack da Rocketseat, com o objetivo d
 - yarn ou npm install
 - yarn start
 
-### Frontend da aplicação
+--------------------
 
+### Frontend da aplicação
 [Frontend](https://github.com/lcassiol/reactjs-be-the-hero)
 
 ### Aplicação Mobile
-
 [Mobile](https://github.com/lcassiol/RN-be-the-hero)
